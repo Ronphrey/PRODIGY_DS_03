@@ -30,13 +30,10 @@ Ensure you have these libraries installed before running the notebook.
    ```
 3. Follow the notebook's cells step-by-step to explore the data and build the predictive model.
 
-## Dataset
-
-The dataset used in this project includes [insert details about the dataset, e.g., number of rows, columns, and features]. Ensure the dataset is placed in the project directory.
 
 ## Results
 
-The project evaluates model performance using metrics such as accuracy or others (depending on implementation). For detailed results, refer to the notebook.
+The project evaluates model performance using accuracy
 
 ## Contribution
 
